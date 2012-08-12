@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Wiredpm - Alpha Functionality
+ * Plugin Name: Wiredpm - Alpha Plugin
  * Plugin URI: https://github.com/billerickson/Core-Functionality
  * Description: This contains all your site's core functionality so that it is theme independent.
  * Version: 1.1.0
